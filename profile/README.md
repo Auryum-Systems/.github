@@ -2,7 +2,11 @@
 
 > *Auryum sees the patterns of institutional collapse that the people inside the institution cannot see themselves.*
 
-Auryum builds infrastructure for reading, simulating, and intervening on institutional fragility. The work draws on three thousand years of recorded collapse and a typed substrate of AI agents that runs institutional twins from the inside.
+**We map collapse across civilisations.**
+
+Three thousand years of institutional failure — Roman senatorial dysfunction, mediaeval guild dissolution, Ottoman waqf collapse, dynastic succession crises across Han, Tang, and Qing China, post-revolutionary republics, twentieth-century Soviet information cascades, twenty-first-century banking failures, modern corporate self-deception — read systematically by 138 SKILL-defined AI agents working across 22 civilisational dialects, against a typed institutional ontology that distinguishes 43 institutional genes, 31 human-cognition genes, 15 fragility frameworks, 3 named compounds, and 31 genome profiles.
+
+The output is institutional fragility intelligence: sub-hour, calibrated, provenance-defensible, kept alive after delivery, defensible in front of a regulator three years from now.
 
 Most failure analysis is autopsy. Auryum is wind tunnel.
 
@@ -33,7 +37,8 @@ The substrate carries a typed institutional ontology. Public-tier counts only �
 | **Frameworks** | 15 | Named patterns of institutional fragility that emerge from gene combinations |
 | **Compounds** | 3 | Higher-order patterns where multiple frameworks interlock to produce characteristic collapse |
 | **Genome profiles** | 31 | Typed institutional shapes (e.g. "post-revolutionary republic with overdeveloped bureaucracy") |
-| **Cohort dialects** | 22 | Civilisational reading registers (English, Mandarin, Russian, Arabic, Sanskrit, Pashto, Spanish, Japanese, classical Latin, classical Greek, and more) |
+| **Cohort dialects** | 22 | Civilisational reading registers (English, Mandarin, Russian, Arabic, Sanskrit, Pashto, Spanish, Japanese, classical Latin, classical Greek, and twelve more) |
+| **Cultural simulation templates** | 27 | ORBIS-side embodied agent profiles for running cultures inside institutional twin simulations |
 | **SKILL-defined agents** | 138 | Domain experts in the substrate, each with a single typed task |
 
 The ontology is not theoretical. Each gene was extracted from cross-civilisational reading, validated against historical cases, and tested against contemporary cases. Activation requires tri-witness convergence — independent evidence from at least three civilisational streams — before any claim promotes to canonical status.
@@ -79,20 +84,45 @@ The case library currently contains forty-four certified institutional cases. Su
 
 ## Status, in plain numbers
 
-- 43 institutional genes mapped, validated against three thousand years of historical record
-- 31 human-cognition genes
-- 15 fragility frameworks empirically validated, eight of which were re-validated by emergent ORBIS simulation
-- 3 named compounds, two of which surfaced as glyph candidates from the first full simulation
-- 31 genome profiles
-- 22 cohort dialects shipped, reading across Indo-European, Sino-Tibetan, Afro-Asiatic, Slavic, and classical language families
-- 138 SKILL-defined agents
-- 44 certified cases in the case library
-- 50-round Corporation simulation completed for $4.38 in compute, with full character-arc resolution and four emergent agent departures
-- 12 milestones shipped in Wk1 of May 2026
-- 15-step substrate-truth fix train shipped 6 May 2026 (thirteen commits, eighty-eight tests green, four pre-commit gates clean, one morning)
-- Five STELE war-room rounds closed in a single day with deep-panel deliberation per round
+### The substrate
 
-The substrate is real. The products run today on the founder's tablet. First sovereign-client engagements in 2026.
+- **3,000+ years** of recorded civilisational collapse, read systematically through 22 cohort dialects
+- **22** civilisational reading cohorts running in parallel: English, Mandarin, Russian, Arabic, Sanskrit, Pashto, Spanish, Japanese, classical Latin, classical Greek, plus twelve more
+- **27** cultural simulation templates (ORBIS-side embodied agent profiles)
+- **138** SKILL-defined AI agents in the substrate, each with a single typed task
+- **43** institutional genes mapped, each with empirical signature, activation conditions, decay function, and cross-civilisational provenance
+- **31** human-cognition genes mapped against the cognitive-science evidence base
+- **15** fragility frameworks empirically validated; **8 of 15** re-validated by emergent ORBIS simulation in a single 50-round Corporation run
+- **3** named compounds canonically promoted; **2 more** as glyph candidates from May 2026 simulation runs
+- **31** genome profiles typed, each with characteristic fragility shape
+
+### The case work
+
+- **44** certified institutional cases in the substrate's case library
+- Subjects include FTX, Wirecard, and other public institutional failures (empirical-validation runs); plus active CLIENT-tier cases on contemporary institutions held under NDA
+- Every case sealed via SEPULCRUM with SHA-256 chain anchor + Ghost Network RFC 3161 timestamp — verifiable offline three years from now without Auryum's cooperation
+- Calibration history accumulated case by case; new cases scored against the historical accuracy of similar cases
+
+### The first full simulation
+
+- The Corporation, fifty rounds, fifty-five agents, modelled after a 2008-era investment bank under crisis
+- Total compute cost: **$4.38** on Sonnet via Batch API
+- Output: full character-arc resolution including the unscripted *"you are calling the chicken a duck"* moment, four emergent agent departures, eight of fifteen frameworks empirically re-validated, two new compound candidates surfaced for the substrate's discovered ontology
+- The Wall Doctrine (no analytical vocabulary in agent prompts; no observation findings in simulation state) ensures the output is emergent rather than prompted — the scientific basis for treating ORBIS findings as evidence about real institutional dynamics
+
+### The build velocity
+
+- One founder. Mac Mini in Guildford. Claude Code + Claude Opus as engineering partners.
+- Twelve milestones shipped in Wk1 of May 2026
+- Substrate-truth fix train shipped morning of 6 May 2026: thirteen commits, eighty-eight tests green, four pre-commit gates clean, four contract-failure classes structurally closed in one morning
+- Five STELE war-room rounds closed in a single day with deep-panel deliberation per round (28 voices in Round 4 alone)
+- AWS S3 KMS vault for trade-secret content; tracked source carries vault-key references only
+
+### What this empirically establishes
+
+- Cross-civilisational tri-witness convergence is producing real empirical validation: 8 of 15 frameworks now re-validated by independent simulation evidence
+- Patterns that match historical record AND emerge in fresh autonomous simulation are the strongest possible class of finding — predicted by structure, observed in history, replicated under controlled emergent conditions
+- The substrate is real. The products run today on the founder's tablet. First sovereign-client engagements in 2026.
 
 ---
 
