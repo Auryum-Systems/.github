@@ -12,6 +12,22 @@ Most failure analysis is autopsy. Auryum is wind tunnel.
 
 ---
 
+## What kind of company this is
+
+Auryum is the kind of company Sequoia and Y Combinator are now explicitly funding — **AI-native, not AI-powered**.
+
+We are not a SaaS tool for human analysts to use. We are the analyst. The 138 agents in the substrate do the actual reading, the actual cross-civilisational corroboration, the actual case certification. The customer asks a question. The substrate produces the certified intelligence case. Sub-hour. Defensible. Sealed. The deliverable is the intelligence itself, not a dashboard the customer logs into to do the work themselves.
+
+This is what Sequoia's investment thesis calls **Service-as-Software** — companies that sell the output of AI work rather than tools humans use to do the work themselves. Sonya Huang and Pat Grady's framing: the software market is ~$300B (tools sold to humans); the services market it replaces is $1T+ (work delivered to customers). AI-native companies that can actually deliver the work shift from the first market into the second. The companies that get it right will dwarf traditional SaaS.
+
+Y Combinator under Garry Tan has been asking for the same thing in plain language across the W25 and S25 batches: vertical AI agents taking on whole categories of professional work, founders who can build *and* deliver, not just wrap a model in a UI. Brad Lightcap and Sam Altman have made the same argument publicly through 2025.
+
+Auryum sits in this category by construction, not by retrofit. The substrate was designed from day one to produce sealed certified output for sovereign clients. Not a chatbot. Not a research tool. The product is the intelligence case itself, delivered to a customer who needs it defensible in front of a regulator three years from now. The 138 agents do the work that 138 senior analysts at a McKinsey or a Forrester would otherwise do — at sub-hour latency, with cryptographic provenance, at a fraction of the cost.
+
+The category is real. The thesis is funded. Auryum is the institutional-fragility-intelligence instance of it.
+
+---
+
 ## The thesis
 
 Institutions fail with structure. The structure repeats across civilisations. Roman senatorial dysfunction in 60 BCE has a measurable kinship with twenty-first-century corporate self-deception, with Soviet-era information cascades, with mediaeval guild collapse, with twenty-first-century social-media dissolution. Different surfaces. Same underlying mechanics.
