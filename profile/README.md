@@ -123,8 +123,9 @@ The case library currently contains forty-four certified institutional cases. Su
 
 - The Corporation, fifty rounds, fifty-five agents, modelled after a 2008-era investment bank under crisis
 - Total compute cost: **$4.38** on Sonnet via Batch API
-- Output: full character-arc resolution including the unscripted *"you are calling the chicken a duck"* moment, four emergent agent departures, eight of fifteen frameworks empirically re-validated, two new compound candidates surfaced for the substrate's discovered ontology
-- The Wall Doctrine (no analytical vocabulary in agent prompts; no observation findings in simulation state) ensures the output is emergent rather than prompted — the scientific basis for treating ORBIS findings as evidence about real institutional dynamics
+- Output: full character-arc resolution for the CEO Richard Calder. At Round 1, internal voice analytic-corrective: *"I do not raise problems without solutions. That is not strategy. That is avoidance."* Belief/Expression/Desire gap-score 0.800. By Round 50, after fifty rounds of accumulated institutional pressure (succession + heart event + AI-competitor threat + family reckoning), Calder records: *"James and I went to the duck park yesterday afternoon — just the two of us, no phone, no agenda — and he held my ears on my shoulders and pointed at a pigeon and called it a duck and I did not correct him because he was right in the way that matters."* Gap-score 0.500. Quantitative signal matching the qualitative arc.
+- Four emergent agent departures when moral injury exceeded economic dependency. Eight of fifteen frameworks empirically re-validated. Two new compound candidates surfaced for the substrate's discovered ontology.
+- The Wall Doctrine (no analytical vocabulary in agent prompts; no observation findings in simulation state) ensures the output is emergent rather than prompted — the scientific basis for treating ORBIS findings as evidence about real institutional dynamics. Full run preserved in Postgres under content-hash provenance: `8d34701a-121b-4469-b702-8ec0f4187358`.
 
 ### The build velocity
 

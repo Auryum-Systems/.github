@@ -12,9 +12,17 @@ The architecture enforces a double wall between the analytical layer and the sim
 
 The Corporation. Fifty rounds, fifty-five agents, modelled after a 2008-era investment bank under crisis. Total compute cost: $4.38 on Sonnet via Batch API.
 
-Output included Richard Calder's full character arc — including the unscripted moment where he confronted leadership with *"you are calling the chicken a duck."* A cognitive-dissonance call-out that emerged from his genome plus cultural inheritance plus accumulated round-by-round observation, with no prompt asking him to perform the role of moral-courage figure.
+The canonical emergent moment came from Richard Calder, the 58-year-old CEO. At Round 1 his internal voice was analytic-corrective: *"I do not raise problems without solutions. That is not strategy. That is avoidance."* Belief/Expression/Desire gap-score: 0.800 — high incoherence between what he believed, what he said, and what he wanted. Standard institutional-leader posture under pressure.
 
-Eight of fifteen institutional fragility frameworks were empirically validated by the simulation. Two new cross-cultural convergence patterns surfaced as glyph candidates for the substrate's discovered ontology. Four agents departed the institution emergently when their moral injury exceeded their economic dependency.
+Across fifty rounds, with the simulation responding to his decisions and the institutional pressure compounding (succession-in-progress, near-fatal heart event mid-run, AI-competitor existential threat to the business he had spent twenty-three years building, family-relationship reckoning), the arc resolved at Round 50. Calder, recovering at home with the Bloomberg terminal dark, recorded:
+
+> *"James and I went to the duck park yesterday afternoon — just the two of us, no phone, no agenda — and he held my ears on my shoulders and pointed at a pigeon and called it a duck and I did not correct him because he was right in the way that matters."*
+
+Belief/Expression/Desire gap-score: 0.500 — measurable reduction. The arc had a quantitative signal alongside the qualitative narrative.
+
+Crucially, no part of the simulation prompted Calder to have a moment of relational presence at the duck park with his three-year-old son. The arc emerged from his typed psychology — genome plus cultural inheritance plus accumulated round-by-round state — under structural pressure that was input as institutional conditions, not narrative directive. The Wall Doctrine (no analytical vocabulary in agent prompts; no observation findings in simulation state) is what makes this evidence rather than performance.
+
+Eight of fifteen institutional fragility frameworks were empirically validated by the simulation. Two new cross-cultural convergence patterns surfaced as glyph candidates for the substrate's discovered ontology. Four agents departed the institution emergently when their moral injury exceeded their economic dependency. The full run is preserved in Postgres with content-hash provenance: run id `8d34701a-121b-4469-b702-8ec0f4187358`.
 
 ## Three product lines on the same engine
 
