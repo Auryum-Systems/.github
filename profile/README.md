@@ -14,12 +14,12 @@ One multi-agent substrate, six products. Each one solves a different surface of 
 
 | Product | What it is | Status |
 |---|---|---|
-| [**MNEME**](products/MNEME.md) | Typed memory substrate. Episodic, semantic, predictive, metacognitive. The layer every other product remembers through. | v1 shipping; patent provisional ~10 June 2026 |
-| [**ORBIS**](products/ORBIS.md) | Institutional twin and emergent drama engine. Multi-agent simulation under cognitive pressure. Studio, Mirror, and Training product lines run on top. | Engine v1 live; first full run shipped |
-| [**STELE**](products/STELE.md) | Typed sealed codec for agent-to-agent communication. Compresses substrate traffic four to six times, decodable into any language at any cultural register. | Design ratified May 2026; v1 implementation Wk2 |
-| [**VERUM**](products/VERUM.md) | Fragility intelligence API. Sub-hour certified case on any institution, with cryptographic provenance. | V1 internal-live on localhost; production track to first customer |
-| [**SONUS**](products/SONUS.md) | Synthetic-identity protection for high-value individuals. Forensic detection, commercial loss quantification, courtroom-grade evidence files. | Specced and war-roomed; build phase next |
-| [**AURELIAN**](products/AURELIAN.md) | Child-protection response layer. The thing detection-grade products do not build — what happens after a match is found. | Pitch-ready; awaiting grant funding for 2027 build |
+| [**MNEME**](https://github.com/Auryum-Systems/.github/blob/main/products/MNEME.md) | Typed memory substrate. Episodic, semantic, predictive, metacognitive. The layer every other product remembers through. | v1 shipping; patent provisional ~10 June 2026 |
+| [**ORBIS**](https://github.com/Auryum-Systems/.github/blob/main/products/ORBIS.md) | Institutional twin and emergent drama engine. Multi-agent simulation under cognitive pressure. Studio, Mirror, and Training product lines run on top. | Engine v1 live; first full run shipped |
+| [**STELE**](https://github.com/Auryum-Systems/.github/blob/main/products/STELE.md) | Typed sealed codec for agent-to-agent communication. Compresses substrate traffic four to six times, decodable into any language at any cultural register. | Design ratified May 2026; v1 implementation Wk2 |
+| [**VERUM**](https://github.com/Auryum-Systems/.github/blob/main/products/VERUM.md) | Fragility intelligence API. Sub-hour certified case on any institution, with cryptographic provenance. | V1 internal-live on localhost; production track to first customer |
+| [**SONUS**](https://github.com/Auryum-Systems/.github/blob/main/products/SONUS.md) | Synthetic-identity protection for high-value individuals. Forensic detection, commercial loss quantification, courtroom-grade evidence files. | Specced and war-roomed; build phase next |
+| [**AURELIAN**](https://github.com/Auryum-Systems/.github/blob/main/products/AURELIAN.md) | Child-protection response layer. The thing detection-grade products do not build — what happens after a match is found. | Pitch-ready; awaiting grant funding for 2027 build |
 
 ---
 
