@@ -4,7 +4,7 @@
 
 **We map collapse across civilisations.**
 
-Three thousand years of institutional failure — Roman senatorial dysfunction, mediaeval guild dissolution, Ottoman waqf collapse, dynastic succession crises across Han, Tang, and Qing China, post-revolutionary republics, twentieth-century Soviet information cascades, twenty-first-century banking failures, modern corporate self-deception — read systematically by 138 SKILL-defined AI agents working across 22 civilisational dialects, against a typed institutional ontology that distinguishes 43 institutional genes, 31 human-cognition genes, 15 fragility frameworks, 3 named compounds, and 31 genome profiles.
+Three thousand years of institutional failure — Roman senatorial dysfunction, mediaeval guild dissolution, Ottoman waqf collapse, dynastic succession crises across Han, Tang, and Qing China, post-revolutionary republics, twentieth-century Soviet information cascades, twenty-first-century banking failures, modern corporate self-deception — read systematically by 138 SKILL-defined AI agents working across 22 civilisational dialects, against a typed institutional ontology of 102 genes, 15 fragility frameworks, 3 named compounds, and 46 genomes — 166 ontology entities, all cryptographically vault-resolvable.
 
 The output is institutional fragility intelligence: sub-hour, calibrated, provenance-defensible, kept alive after delivery, defensible in front of a regulator three years from now.
 
@@ -48,11 +48,15 @@ The substrate carries a typed institutional ontology. Public-tier counts only �
 
 | Layer | Count | What it is |
 |---|---|---|
-| **Institutional genes** | 43 | Atomic dynamics that activate in institutions under pressure (typed, observable, replicable across civilisations) |
-| **Human-cognition genes** | 31 | Atomic dynamics in individual decision-makers inside those institutions |
-| **Frameworks** | 15 | Named patterns of institutional fragility that emerge from gene combinations |
-| **Compounds** | 3 | Higher-order patterns where multiple frameworks interlock to produce characteristic collapse |
-| **Genome profiles** | 31 | Typed institutional shapes (e.g. "post-revolutionary republic with overdeveloped bureaucracy") |
+| **Institutional genes** | 44 | Atomic dynamics that activate in institutions under pressure (typed, observable, replicable across civilisations) |
+| **Human-cognition genes** | 31 | Atomic dynamics in individual decision-makers |
+| **AGI sub-domain genes** | 10 | Atomic dynamics specific to frontier-AI institutions |
+| **Resilience genes (institutional + human)** | 17 | The patterns that prevent collapse — 8 institutional + 9 human |
+| **Genes total** | **102** | |
+| **Frameworks** | 15 | Named patterns of fragility that emerge from gene combinations |
+| **Named compounds** | 3 | Higher-order patterns where frameworks interlock — names + trigger conditions vault-only per Schneier three-tier |
+| **Genomes** | 46 | Typed institutional / individual / civilisational / framework / human shapes |
+| **Total ontology entities** | **166** | All vault-resolvable under cryptographic chain |
 | **Cohort dialects** | 22 | Civilisational reading registers (English, Mandarin, Russian, Arabic, Sanskrit, Pashto, Spanish, Japanese, classical Latin, classical Greek, and twelve more) |
 | **Cultural simulation templates** | 27 | ORBIS-side embodied agent profiles for running cultures inside institutional twin simulations |
 | **SKILL-defined agents** | 138 | Domain experts in the substrate, each with a single typed task |
